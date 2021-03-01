@@ -11,7 +11,7 @@ This repository contains team **localMaxima**'s solutions for the ICPC NCNA 2020
 
 ## Team Members
 
-- [Harsh Patel](https://www.github.com/eelectron)
+- [Harsh Patel](https://www.github.com/eelectronn)
 - [Aalekh Patel](https://www.github.com/aalekhpatel07)
 - [Bhargav Patel](https://www.github.com/bhargav061)
 
