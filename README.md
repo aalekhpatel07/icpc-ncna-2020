@@ -17,5 +17,5 @@ This repository contains team **localMaxima**'s solutions for the ICPC NCNA 2020
 
 ## Team School and Coach
 
-**Coach**: Mary Adedayo
-**School**: [The University of Winnipeg](https://www.uwinnipeg.ca)
+- **Coach**: Mary Adedayo
+- **School**: [The University of Winnipeg](https://www.uwinnipeg.ca)
