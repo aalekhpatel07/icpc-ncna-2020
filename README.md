@@ -15,7 +15,6 @@ This repository contains team **localMaxima**'s solutions for the ICPC NCNA 2020
 - [Aalekh Patel](https://www.github.com/aalekhpatel07)
 - [Bhargav Patel](https://www.github.com/bhargav061)
 
-## Team School and Coach
+## Team School
 
-- **Coach**: Mary Adedayo
 - **School**: [The University of Winnipeg](https://www.uwinnipeg.ca)
